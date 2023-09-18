@@ -1,5 +1,11 @@
 # Changelog
 
+## [18.0.1](https://github.com/npm/cacache/compare/v18.0.0...v18.0.1) (2023-09-18)
+
+### Dependencies
+
+* [`0a5c204`](https://github.com/npm/cacache/commit/0a5c204edc5c738a914317c68cce91e7e9a06b6d) [#221](https://github.com/npm/cacache/pull/221) bump minipass-collect from 1.0.2 to 2.0.1
+
 ## [18.0.0](https://github.com/npm/cacache/compare/v17.1.4...v18.0.0) (2023-08-14)
 
 ### ⚠️ BREAKING CHANGES
